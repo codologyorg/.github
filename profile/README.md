@@ -1,3 +1,3 @@
 # Codology
-
-By techies, for techies. Free, high-quality computer science courses inspiring the next generation.
+### By techies, for techies. Free, high-quality computer science courses inspiring the next generation.
+Codology offers free, high-quality computer science courses for aspiring young adults. At Codology, each program consists of unique activities and topics, so students have something different to explore in every course. Classes are also curated for different age groups and skill levels, so every lesson offers the proper level of engagement. On top of that, students are able to learn from the comfort of home and engage in a variety of activities with easy-to-get materials. Sign up your child for free courses today!
