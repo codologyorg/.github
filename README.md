@@ -1,1 +1,1 @@
-#By techies, for techies. Free, high-quality computer science courses inspiring the next generation.
+# By techies, for techies. Free, high-quality computer science courses inspiring the next generation.
