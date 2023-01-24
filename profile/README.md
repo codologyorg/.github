@@ -1,3 +1,13 @@
 # Codology
-### By techies, for techies. Free, hands-on computer science courses inspiring the next generation.
-Codology offers free, hands-on computer science courses for aspiring young adults. At Codology, each program consists of unique activities and topics, so students have something different to explore in every course. Classes are also curated for different age groups and skill levels, so every lesson offers the proper level of engagement. On top of that, students are able to learn from the comfort of home and engage in a variety of activities with easy-to-get materials. Sign up your child for free courses today!
+## About Us
+Codology is a tech education company instilling a love of computer science in students from all walks of life. We are a group of software engineers, designers, and students striving to make computer science education accessible to everyone. From live workshops to research programs, Codology has a way for you to learn computer science. We offer lessons on web development, UI design, game development, and more.
+
+## More Information
+
+Website: https://www.codology.org/
+
+Instagram: https://www.instagram.com/codologyorg/
+
+LinkedIn: https://www.linkedin.com/company/codo...
+
+TikTok: https://www.tiktok.com/@codologyorg
